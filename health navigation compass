@@ -1,0 +1,15 @@
+HERnext-AI-Health-Navigation/
+│
+├── README.md
+├── prompts/
+│   ├── main-app-prompt.txt
+│   └── safety-gate-prompt.txt
+│
+├── screenshots/
+│   ├── home.png
+│   ├── health-check.png
+│   ├── safety-gate.png
+│   └── doctor-prep.png
+│
+└── docs/
+    └── project-overview.md
